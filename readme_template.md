@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of your project.
+A brief description of your project and a screenshot if applicable.
 
 ## Table of Contents
 
